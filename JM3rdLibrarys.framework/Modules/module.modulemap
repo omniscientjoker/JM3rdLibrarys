@@ -1,0 +1,6 @@
+framework module JM3rdLibrarys {
+  umbrella header "JM3rdLibrarys.h"
+
+  export *
+  module * { export * }
+}
